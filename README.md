@@ -17,7 +17,7 @@ This is a Python package for bingX API, aims to provide a simple and easy-to-use
 pip install bingX-connector     # install from pypi
 pip install -U bingX-connector  # upgrade the package to the latest version
 ```
-> Please always upgrade to the latest version to ensure the latest features and bug fixes
+> Please always upgrade to the latest version to ensure the latest features and bug fixes.
 
 
 ## 📌 Features
@@ -35,7 +35,7 @@ pip install -U bingX-connector  # upgrade the package to the latest version
 
 ### Standard Contract
 ```python
-from bingX.standard import Standard
+from bingX standard import Standard
 
 client = Standard(api_key, api_secret)
 ```
